@@ -1,3 +1,7 @@
 # liri-node-app
 
-Create LIRI, a command line node app that takes in a command and parameters to bring back data from Spotify, OMdb, and Twitter
+Use Node.js to create Liri,  a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data for the following:
+-a song in Spotify
+-a movie from OMDb
+-tweets from Twitter
+-a txt file 
