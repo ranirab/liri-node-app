@@ -5,3 +5,8 @@ Use Node.js to create Liri,  a _Language_ Interpretation and Recognition Interfa
 -a movie from OMDb
 -tweets from Twitter
 -a txt file 
+
+![](image1.png)
+![](image2.png)
+![](image3.png)
+![](image4.png)
