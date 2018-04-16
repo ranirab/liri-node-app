@@ -6,7 +6,7 @@ Use Node.js to create Liri,  a _Language_ Interpretation and Recognition Interfa
 -tweets from Twitter
 -a txt file 
 
-![](image1.png)
-![](image2.png)
-![](image3.png)
-![](image4.png)
+![Movie-this "Mr. Noboby" default](image1.png)
+![Movie-this "Avatar"](image2.png)
+![Spotity-this-song "Roar"](image3.png)
+![Spotify-this-song "Ace of Base" default](image4.png)
